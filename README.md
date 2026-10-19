@@ -1,19 +1,22 @@
 ### Información del Equipo
 - **Integrantes:**
-  - Nombre 1 - Rol 1
-  - Nombre 2 - Rol 2
-  - Nombre 3 - Rol 3
-  - Nombre 4 - Rol 4
+  - Nombre 1 -Sophia Fuenzalida
+  - Nombre 2 -Sofia Lagos
+  - Nombre 3 -Rafaela Montero
+  - Nombre 4 -Sofia Campos
   
-- **ODS Seleccionado:** [Número y nombre]
-- **Problema a resolver:** [Descripción breve]
+- **ODS Seleccionado:**
+    3_Bienestar y salud.
+    11_ Ciudades y comunidades sostenibles
+- **Problema a resolver:** La somnolencia de camioneros durante recorridos de larga distancia.
 
 ### Descripción del Proyecto
-[Breve descripción de la solución IoT propuesta]
+"Los “camioneros de rutas largas”  no pueden “mantenerse alerta durante largas horas continuamente” porque “conducir largas horas en ruta conocida genera somnolencia” en “la carretera” durante “la noche u horas tempranas de la mañana”, lo cual genera “riesgo en ruta o accidentes” que afecta a gran parte del sector de trasporte ya que alrededor  del 80% de los casos de accidentes en el sector de trasporte se deben a la fatiga al volante segun estudios de la ACHS (Asociación Chilena de Seguridad )
+
 
 ### Estado del Proyecto
-- **Versión actual:** v3.0
-- **Última actualización:** [Fecha]
+- **Versión actual:** v10.0
+- **Última actualización:** 19_10_2026
 - **Estado:** Prototipo final
 
 ---
