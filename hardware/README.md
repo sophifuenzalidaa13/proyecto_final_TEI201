@@ -6,7 +6,7 @@ Esta carpeta contiene toda la documentación técnica del hardware del proyecto.
 ### 📁 Carpetas
 
 #### `esquemas/`
-Diagramas de circuitos y esquemáticos del sistema
+Se creo una simulación a través de WOKWI, donde se uso un pulsímetro en vez del sensor con el fin de replicar la señal que daría al buzzer 
 
 #### `bom/`
 Bill of Materials (Lista de materiales)
